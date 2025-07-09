@@ -3,7 +3,7 @@
 // Write a java program that finds second largest element in array
 import java.util.Scanner;
 
-public class SecondLargest {
+public class Qno4 {
     public static void main(String[] args) {
           Scanner myObj = new Scanner(System.in);
         int number[] = new int[5];

@@ -1,7 +1,7 @@
 
 //2.	Write a program in Java to read a number and tests if it is even or odd
 import java.util.Scanner;
-public class OddOrEven {
+public class Qno2 {
     public static void main(String[] args) {
          Scanner myObj = new Scanner(System.in);
         System.out.print("Input a postive integer number:\n");

@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author gaurav
  */
-public class PowerRecursive {
+public class Qno17 {
       public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the first number:\t");

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class AreaAndCirumferenceOfCircle {
+public class Qno10 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

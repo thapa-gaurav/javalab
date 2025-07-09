@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 //Write a java program thats reads user input check whether it is alphabet or not
-public class AlphabetOrNot {
+public class Qno6 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

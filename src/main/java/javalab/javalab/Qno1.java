@@ -8,7 +8,7 @@ package javalab.javalab;
  *
  * @author gaurav
  */
-public class Javalab {
+public class Qno1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");

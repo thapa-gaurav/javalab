@@ -1,7 +1,7 @@
 //write java program that reads P,T,R and ouput simple interest;
 import java.util.Scanner;
 
-public class SimpleInterest {
+public class Qno12 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the value of principle :");

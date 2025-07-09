@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class MmultibleOfN {
+public class Qno8 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class MmultibleOfN {
         System.out.println("Enter the value of n:");
 
         int n = input.nextInt();
-        if (n % m == 0) {
+        if (m % n == 0) {
             System.out.println(m + " is multiple of " + n);
         } else {
             System.out.println(m + " is not multiple of " + n);

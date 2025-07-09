@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author gaurav
  */
-public class ProductRecursive {
+public class Qno16 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the first number:\t");

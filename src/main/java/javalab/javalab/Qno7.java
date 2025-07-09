@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class SortedArrayOrNot {
+public class Qno7 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
