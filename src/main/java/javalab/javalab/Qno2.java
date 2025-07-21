@@ -1,3 +1,5 @@
+package javalab.javalab;
+
 
 //2.	Write a program in Java to read a number and tests if it is even or odd
 import java.util.Scanner;
