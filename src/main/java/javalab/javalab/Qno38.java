@@ -8,15 +8,14 @@ package javalab.javalab;
  *
  * @author gaurav
  */
-public class Qno36 {
+public class Qno38 {
+
     public static void main(String[] args) {
-        System.out.println("Demonstrating divide by zero exception.");
-        int n = 45;
-        int d = 0;
-        
-        try{
-            int r = n/d;
-        }catch(ArithmeticException e){
+        System.out.println("Demonstrating null exception.");
+        String test = null;
+        try {
+            System.out.println(test.chars());
+        } catch (NullPointerException e) {
             System.out.println("Error: " + e.getMessage());
         }
     }
